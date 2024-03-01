@@ -1,0 +1,36 @@
+{
+  "name": "textlink-sms",
+  "version": "0.0.2",
+  "description": "Node.js library that helps you send SMS and verify users using the TextLink API",
+  "main": "dist/textlink.js",
+  "types": "dist/textlink.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "sms-api",
+    "api-client",
+    "api",
+    "text-message",
+    "simple-sms",
+    "sms-verification",
+    "sms",
+    "user-verification",
+    "textlink"
+  ],
+  "author": "TextLink",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skocimis/textlink-js.git"
+  },
+  "homepage": "https://textlinksms.com",
+  "files": [
+    "dist/**/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  }
+}
