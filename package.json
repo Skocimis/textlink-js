@@ -1,6 +1,6 @@
 {
   "name": "textlink-sms",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js library that helps you send SMS and verify users using the TextLink API",
   "main": "dist/textlink.js",
   "types": "dist/textlink.d.ts",
